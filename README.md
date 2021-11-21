@@ -21,6 +21,8 @@ The following optional features are implemented:
 The following additional features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+- [x] Splash screen created
+- [x] Loading bar created to match the duration of splash screen  
 
 ## Video Walkthrough
 
@@ -28,11 +30,21 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://user-images.githubusercontent.com/80597347/142756575-47850aba-d6bd-43f9-8a45-b43075ec3cd6.mp4
+
+
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+- File import errors.
+- plugin errors.
+- Dependency errors.
+- Version control errors.
 
 ## License
 
