@@ -28,11 +28,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-
-https://user-images.githubusercontent.com/80597347/142756575-47850aba-d6bd-43f9-8a45-b43075ec3cd6.mp4
-
-
+![video (1)](https://user-images.githubusercontent.com/80597347/142757600-8d0e50dd-2c35-4448-b68a-8c2bcd96dfc8.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
